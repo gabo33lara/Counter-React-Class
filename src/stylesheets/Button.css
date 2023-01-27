@@ -1,0 +1,30 @@
+.increase-btn, .decrease-btn, .reset-btn {
+    font-family: Roboto, sans-serif;
+    font-size: 35px;
+    width: 250px;
+    height: 80px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    margin: 10px;
+    cursor: pointer;
+    letter-spacing: 1.2px;
+    transition: .5s all;
+}
+
+.increase-btn:hover, .reset-btn:hover, .decrease-btn:hover {
+    background: #00471b;
+}
+
+.increase-btn {
+    background: #002ead;
+}
+
+.decrease-btn {
+    background: #ff3700;
+}
+
+.reset-btn {
+    background: #5a01a7;
+}
+

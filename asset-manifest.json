@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Counter-React-Class/static/css/main.f59321d6.css",
+    "main.js": "/Counter-React-Class/static/js/main.f205f37e.js",
+    "static/js/787.5863b875.chunk.js": "/Counter-React-Class/static/js/787.5863b875.chunk.js",
+    "static/media/FreeCodeCamp-logo.png": "/Counter-React-Class/static/media/FreeCodeCamp-logo.5486935b905c7949600c.png",
+    "index.html": "/Counter-React-Class/index.html",
+    "main.f59321d6.css.map": "/Counter-React-Class/static/css/main.f59321d6.css.map",
+    "main.f205f37e.js.map": "/Counter-React-Class/static/js/main.f205f37e.js.map",
+    "787.5863b875.chunk.js.map": "/Counter-React-Class/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59321d6.css",
+    "static/js/main.f205f37e.js"
+  ]
+}
